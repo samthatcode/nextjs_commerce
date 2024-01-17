@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 
 import { Page } from '../../../payload/payload-types'
 import { CustomHero } from '../../_heros/CustomHero'
